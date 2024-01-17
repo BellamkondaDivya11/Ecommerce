@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className="headercontainer">
       <div className="title">
-        <h1>React Routing</h1>
+        <h1>React App</h1>
       </div>
 
       <div className="menus">
